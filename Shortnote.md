@@ -1,0 +1,1 @@
+I'm proud that I was able to build the lead management system with all the main features working properly. The tricky part was making search, filters, sorting, and pagination work together, along with handling form validation.
